@@ -1,10 +1,12 @@
-# Learn Repo Template
+# Learn Cloudflare R2
 
 ## 本リポジトリの目的
-練習用リポジトリを目的や達成目標を持って実施できるようにするため
+Cloudflare R2で画像サーバーを作りたい
 
 ## 本リポジトリの達成目標
-このテンプレートリポジトリを使って練習用リポジトリを作成されるようになる
+HonoでCloudflare R2と疎通してデータを読み書きする
 
 ## 参考資料
-- 特になし
+- [Hono - Ultrafast web framework for the Edges](https://hono.dev/)
+- [Cloudflare R2もいいぞ！ - ゆーすけべー日記](https://yusukebe.com/posts/2022/r2-beta/)
+- [HTTP レスポンスステータスコード - HTTP | MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/Status)
